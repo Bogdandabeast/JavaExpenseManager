@@ -1,18 +1,40 @@
-## Getting Started
+# Proyecto de Gestión de Gastos en Consola (Java)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este proyecto es una aplicación de consola en **Java** que permite a los usuarios llevar un registro de sus ingresos y gastos personales utilizando un **HashMap** para almacenar los datos.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## Funcionalidades
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Agregar Gastos:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Listar Gastos:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Resumir Gastos por Categoría:
 
-## Dependency Management
+Validación de Entradas:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Asegurar que las Las entradas del usuario sean válidas para cantidad y categoría.
+
+Guardar y Cargar Gastos:
+
+Permitir al usuario guardar el estado actual de los gastos en un archivo y cargarlos al iniciar la aplicación.
+
+
+## Clases Principales
+
+Main.java
+
+Expense.java
+
+ExpenseManager.java
+
+
+
+## Ejecución
+
+1. Clona este repositorio. "git clone https://github.com/Bogdandabeast/JavaExpenseManager.git
+2. Compila y ejecuta el programa desde Main.java
+
+
+
+

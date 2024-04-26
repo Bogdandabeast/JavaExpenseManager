@@ -16,6 +16,8 @@ public static void main(String[] args) {
     expenses.addExpense("Entretenimiento", "Museo", 10.0);
 
     expenses.displayAllExpenses();
+
+    System.out.println("Frank cuesta");
 }
 
 }

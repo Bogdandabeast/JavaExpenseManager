@@ -5,19 +5,19 @@ Este proyecto es una aplicación de consola en **Java** que permite a los usuari
 
 ## Funcionalidades
 
-Agregar Gastos:
+Agregar Gastos: EN DESARROLLO
 
-Listar Gastos:
+Listar Gastos: EN DESARROLLO
 
-Resumir Gastos por Categoría:
+Resumir Gastos por Categoría: EN DESARROLLO
 
-Validación de Entradas:
+Validación de Entradas: NO REALIZADO
 
-Asegurar que las Las entradas del usuario sean válidas para cantidad y categoría.
+Asegurar que las Las entradas del usuario sean válidas para cantidad y categoría: NO REALIZADO
 
-Guardar y Cargar Gastos:
+Guardar y Cargar Gastos: NO REALIZADO
 
-Permitir al usuario guardar el estado actual de los gastos en un archivo y cargarlos al iniciar la aplicación.
+Permitir al usuario guardar el estado actual de los gastos en un archivo y cargarlos al iniciar la aplicación: NO REALIZADO
 
 
 ## Clases Principales

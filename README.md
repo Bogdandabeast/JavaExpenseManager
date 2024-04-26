@@ -32,7 +32,7 @@ ExpenseManager.java
 
 ## Ejecución
 
-1. Clona este repositorio. "git clone https://github.com/Bogdandabeast/JavaExpenseManager.git
+1. Clona este repositorio. "git clone https://github.com/Bogdandabeast/JavaExpenseManager.git"
 2. Compila y ejecuta el programa desde Main.java
 
 

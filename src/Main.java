@@ -27,6 +27,10 @@ public class Main {
         // Listar y resumir gastos
         System.out.println("Lista de gastos:");
         expenseManager.listExpenses();
+    expenses.displayAllExpenses();
+
+    System.out.println("Frank cuesta");
+
 
         System.out.println("\nResumen de gastos:");
         expenseManager.summarizeExpenses();

@@ -1,6 +1,6 @@
 # Proyecto de Gestión de Gastos en Consola (Java)
 
-Este proyecto es una aplicación de consola en **Java** que permite a los usuarios llevar un registro de sus ingresos y gastos personales utilizando un **HashMap** para almacenar los datos.
+Este proyecto es una aplicación de consola en **Java** que permite a los usuarios llevar un registro de sus gastos personales utilizando un **HashMap** para almacenar los datos.
 
 
 ## Funcionalidades
